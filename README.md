@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is yoon-sun-gyu
  
 <!--
 **Yoon-sun-gyu/Yoon-sun-gyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
